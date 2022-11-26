@@ -1,15 +1,19 @@
 import "./Footer.css";
+import fb from "../../../image/fb.png";
+import tw from "../../../image/tw.png";
+import ig from "../../../image/ig.png";
+import logo from "../../../image/logo.png";
 
 const Footer = () => {
   return (
     <footer className="footer-container">
       <span className="social-network">
-        <img src="../../../image/fb.png" alt="Logo Facebook" />
-        <img src="../../../image/tw.png" alt="Logo Twitter" />
-        <img src="../../../image/ig.png" alt="Instagram" />
+        <img src={fb} alt="Logo Facebook" />
+        <img src={tw} alt="Logo Twitter" />
+        <img src={ig} alt="Instagram" />
       </span>
       <span>
-        <img src="../../../image/logo.png" alt="Logo Organo" />
+        <img src={logo} alt="Logo Organo" />
       </span>
       <h3 className="footer-text">
         Desenvolvido por{" "}
