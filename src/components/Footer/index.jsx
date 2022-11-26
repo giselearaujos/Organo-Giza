@@ -4,12 +4,12 @@ const Footer = () => {
   return (
     <footer className="footer-container">
       <span className="social-network">
-        <img src="/public/fb.png" alt="Logo Facebook" />
-        <img src="/public/tw.png" alt="Logo Twitter" />
-        <img src="/public/ig.png" alt="Instagram" />
+        <img src="./public/fb.png" alt="Logo Facebook" />
+        <img src="./public/tw.png" alt="Logo Twitter" />
+        <img src="./public/ig.png" alt="Instagram" />
       </span>
       <span>
-        <img src="/public/logo.png" alt="Logo Organo" />
+        <img src="./public/logo.png" alt="Logo Organo" />
       </span>
       <h3 className="footer-text">
         Desenvolvido por{" "}
