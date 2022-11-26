@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <header className="banner">
       <img
-        src="../../../public/banner.png"
+        src="../../../image/banner.png"
         alt="Imagem inicial do projeto organo"
       />
     </header>
