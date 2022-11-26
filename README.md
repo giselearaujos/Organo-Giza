@@ -32,7 +32,7 @@ Esse projeto foi realizado com atráves das aulas de ReactJS da Alura.
 
 ## 🔖 Aplicação
 
-Você pode visualizar a aplicação do projeto através [DESSE LINK]()
+Você pode visualizar a aplicação do projeto através [DESSE LINK](https://organo-giza.vercel.app/)
 
 ## :memo: Licença
 
